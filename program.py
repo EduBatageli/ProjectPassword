@@ -178,7 +178,7 @@ def OptionsPage():
 
 # main window
 window = Tk()
-window.title('acesso')
+window.title('Program')
 
 # window size
 window.geometry('600x300')
